@@ -24,3 +24,10 @@ def kesha_maker(array)
     name[2] = "$"
   end
 end
+
+def find_a(array)
+  array.each.select do |start|
+    array = a 
+  end
+end
+    
